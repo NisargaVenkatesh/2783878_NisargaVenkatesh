@@ -1,4 +1,4 @@
-Hikkerstop.com is a website for all the trekkers and mountaineers which gives them the total information about the destinations the activities performed and the users can also contact in case they require any additional information. 
+HinduTeampleArchitecture.com is a website for all the viewers, which gives them the total information about the historical destinations and the activities performed and the users can also contact in case they require any additional information. 
 It is a 2 page website having index.html and destinations.html files along with the images folder.The project consists of images and content which is styled using CSS.
 The fonts used in the website are google fonts. On clicking on the destinations hyperlink the user is redirected to the destinations.html page.
 The top division of the site consists of a nav bar which is made using the <nav> tag in html-5. 
