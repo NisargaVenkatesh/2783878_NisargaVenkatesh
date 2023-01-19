@@ -2,7 +2,7 @@ HinduTeampleArchitecture.com is a website for all the viewers, which gives them 
 It is a 2 page website having index.html and destinations.html files along with the images folder.The project consists of images and content which is styled using CSS.
 The fonts used in the website are google fonts. On clicking on the destinations hyperlink the user is redirected to the destinations.html page.
 The top division of the site consists of a nav bar which is made using the <nav> tag in html-5. 
-When the user clicks on the destinations link, he/she will be directed to the destinations page which gives information about the destinations covered.The index.html file is divided into sections by using division. 
+When the user clicks on the destinations link, he/she will be directed to the destinations page which gives information about the destination temple covered.The index.html file is divided into sections by using division. 
 The images used in the site are placed in the images folder. The styles.css file is stored in the css folder. The website is a two page website which consists of several html tags.
 The images are positioned using absolute and relative positioning through css. 
 The activities section gives information about the various things done by hikkerstop.com.
@@ -11,7 +11,7 @@ The index.html page is divided into sections using the horizontal rule <hr> tag.
  HTML5 Tags Used in Project:
 
 1)header
-The header tag is used to define the heading of the document, ie. Hikkerstop.com.
+The header tag is used to define the heading of the document, ie. HinduTempleArchitecture.com
 
 2)footer
 The footer tag is used to define the footer part of the section. It consists of navigation links enclosed under the nav tag. The navigation links consist of Instagram, Facebook, Snapchat links. The links have target set to blank so on clicking on the link the user is redirected to a blank screen.
