@@ -1,9 +1,8 @@
 Candy Shop
 
-The following project is a personal portfolio website which showcases my uptown date resume. 
+The following project is a candy shop website which showcases the list of candies offered in a store. 
 This project consists of three web pages which are index.html, Menu.html and Signup.html.
-The first section of the index.html page consists of the Profile Picture, Name and a short description about the candidate. 
-The profile picture has rounded corners.
+The first section of the index.html page consists of the Backround Image,.
 This section uses the <div> tag and the name is displayed using the <h1> tag.
 The description is displayed using a different font to make the site look more visually appealing. 
 When the user hovers on the first section the background color and the font color of the header changes.
